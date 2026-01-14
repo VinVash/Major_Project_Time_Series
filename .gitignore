@@ -1,5 +1,35 @@
-venv_majorproject
-help.txt
-pythonNotebooks
+# Project-specific files
+DemoChip.csv
+modified_server.py
+
+# Backend
+Major_Project_Final/backend/venv_majorproject/
+Major_Project_Final/backend/help.txt
+Major_Project_Final/backend/pythonNotebooks/
+Major_Project_Final/backend/__pycache__/
+Major_Project_Final/backend/__pycache__
+
+# Frontend
+Major_Project_Final/frontend/node_modules/
+Major_Project_Final/frontend/.pnp
+Major_Project_Final/frontend/.pnp.js
+Major_Project_Final/frontend/coverage/
+Major_Project_Final/frontend/build/
+Major_Project_Final/frontend/.DS_Store
+Major_Project_Final/frontend/.env.local
+Major_Project_Final/frontend/.env.development.local
+Major_Project_Final/frontend/.env.test.local
+Major_Project_Final/frontend/.env.production.local
+Major_Project_Final/frontend/npm-debug.log*
+Major_Project_Final/frontend/yarn-debug.log*
+Major_Project_Final/frontend/yarn-error.log*
+
+# General
+.DS_Store
+*.pyc
 __pycache__/
-__pycache__
+*.log
+.env
+.venv
+venv/
+
